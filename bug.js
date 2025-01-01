@@ -1,0 +1,1 @@
+This React Native code snippet attempts to access a property of a state variable before it has been fully initialized. This commonly happens when the component renders before the asynchronous operation that sets the state has completed.
